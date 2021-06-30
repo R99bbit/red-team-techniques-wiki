@@ -1,2 +1,6 @@
 # red-team-techniques-wiki
-모의 침투 &amp; 대응 훈련에서 공격 팀 테크닉
+- `MITRE ATT&CK` based red team wiki
+
+- if u need eng sub --> if u need eng sub --> please PR on this repo
+
+- Happy Hacking !
